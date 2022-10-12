@@ -1,0 +1,17 @@
+queue using array:
+
+
+enqueue:
+best case: Ω(1)
+worst care:O(1)
+average case:0(N)
+
+dequeue:
+best case: Ω(1)
+worst case:O(N)
+average case:0(N)
+
+deletion:
+best case:Ω(1)
+worst case:O(N)
+average case:0(N)
