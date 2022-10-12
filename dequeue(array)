@@ -1,0 +1,15 @@
+int dequeue(){
+int x;
+if(isempty()}
+printf("queue is empty\n");
+else if (front==rear){
+x=queue[front];
+front=-1;
+near=-1;
+}
+else {
+x=queue[front];
+front=(front+1)%size;
+}
+return x;
+}
